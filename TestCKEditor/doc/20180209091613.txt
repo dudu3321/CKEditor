@@ -1,0 +1,7 @@
+{ "class": "go.GraphLinksModel",
+  "nodeDataArray": [ 
+{"category":"Start", "text":"Start", "key":-1, "loc":"-212.3300018310547 -141.99999618530273"},
+{"text":"Step", "key":-2, "loc":"-359.33001708984375 -256.6599998474121"},
+{"category":"Start", "text":"Start", "key":-3, "loc":"-297.33001708984375 -267.3299980163574"}
+ ],
+  "linkDataArray": []}
